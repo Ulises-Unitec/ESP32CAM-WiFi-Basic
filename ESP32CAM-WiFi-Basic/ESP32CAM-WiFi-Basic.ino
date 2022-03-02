@@ -21,7 +21,7 @@
 #include <WiFi.h>  // Biblioteca para manejar el WiFi del ESP32CAM
 
 // Datos de Red
-const char* ssid = "********";  // Pon aquí el nombre de la red a la que deseas conectarte
+const char* ssid = "INFINITUM359B";  // Pon aquí el nombre de la red a la que deseas conectarte
 const char* password = "********";  // Escribe la contraseña de dicha red
 
 // Objetos
