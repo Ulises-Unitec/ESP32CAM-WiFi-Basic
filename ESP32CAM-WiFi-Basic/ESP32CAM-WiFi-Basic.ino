@@ -22,7 +22,7 @@
 
 // Datos de Red
 const char* ssid = "INFINITUM359B";  // Pon aquí el nombre de la red a la que deseas conectarte
-const char* password = "********";  // Escribe la contraseña de dicha red
+const char* password = "2uYYpD3bHK";  // Escribe la contraseña de dicha red
 
 // Objetos
 WiFiClient espClient; // Este objeto maneja las variables necesarias para una conexion WiFi
